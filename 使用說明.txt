@@ -1,4 +1,4 @@
-百家研判室 — Netlify Drop 安裝版
+百家判官 — Netlify Drop 安裝版
 
 一、部署
 將此ZIP或解壓後的整個資料夾上傳 https://app.netlify.com/drop 。
