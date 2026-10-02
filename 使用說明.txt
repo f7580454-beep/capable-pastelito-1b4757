@@ -1,0 +1,23 @@
+百家研判室 — Netlify Drop 安裝版
+
+一、部署
+將此ZIP或解壓後的整個資料夾上傳 https://app.netlify.com/drop 。
+檔案根目錄必須含 index.html、_redirects、assets/ 及圖示。
+上傳後，Netlify 會產生 netlify.app 網址；開啟地址不含 ChatGPT。
+請登入 Netlify 並認領網站，以便永久保留及往後更新。
+
+二、安裝到桌面
+iPhone/iPad：Safari 開啟網站 → 分享 → 加入主畫面。
+Android/電腦 Chrome或Edge：點畫面「安裝到桌面」，或使用瀏覽器的安裝選項。
+Mac Safari：檔案 → 加入 Dock。
+
+三、登入與資料
+使用原有APP帳號密碼，管理者可建立會員、設定3/7/30/60天期限、更改密碼和角色。
+帳號、期限和歷史由既有後端驗證保存；前端由Netlify提供，瀏覽器網址保持Netlify。
+這一包不是原生APK/IPA，也不是離線帳號系統。不要刪除 _redirects 或關閉原後端。
+沒有配置AI服務時提供固定規則分析和色彩辨識；不會假稱AI已接通。
+
+四、重要
+請使用HTTPS網址，首次登入後更改初始密碼。
+請核對匯入截圖的結果；未知牌張無法由大路還原，機率與路型不能保證下一局。
+若更換為自訂網域，需將完整網域加入後端允許的來源。netlify.app網址可直接使用。
